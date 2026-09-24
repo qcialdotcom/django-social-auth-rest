@@ -2,9 +2,9 @@
 name = "django-social-auth-rest"
 dynamic = ["version"]
 
-authors = [{ name = "Kumar Sahil", email = "krsahil8825@gmail.com" }]
+authors = [{ name = "Qcial Labs", email = "contact@qcial.com" }]
 
-maintainers = [{ name = "Kumar Sahil", email = "krsahil8825@gmail.com" }]
+maintainers = [{ name = "Qcial Labs", email = "contact@qcial.com" }]
 
 description = "A production-ready social authentication solution for Django REST Framework with provider abstraction, account linking, configurable security settings, and seamless JWT integration."
 
@@ -57,10 +57,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://PackageSphere.github.io/django-social-auth-rest/"
-Documentation = "https://PackageSphere.github.io/django-social-auth-rest/"
-Repository = "https://github.com/PackageSphere/django-social-auth-rest"
-Issues = "https://github.com/PackageSphere/django-social-auth-rest/issues/"
+Homepage = "https://QcialDotCom.github.io/django-social-auth-rest/"
+Documentation = "https://QcialDotCom.github.io/django-social-auth-rest/"
+Repository = "https://github.com/QcialDotCom/django-social-auth-rest"
+Issues = "https://github.com/QcialDotCom/django-social-auth-rest/issues/"
 
 [build-system]
 requires = ["setuptools>=68", "wheel", "setuptools-scm>=8"]

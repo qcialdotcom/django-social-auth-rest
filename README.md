@@ -6,7 +6,7 @@ Social login for Django REST Framework - with account linking, JWT tokens, and r
 [![Django 5.0+](https://img.shields.io/badge/django-5.0+-green.svg)](https://www.djangoproject.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**[Read the full docs →](https://PackageSphere.github.io/django-social-auth-rest/)**
+**[Read the full docs →](https://QcialDotCom.github.io/django-social-auth-rest/)**
 
 ## What This Does
 
@@ -37,13 +37,13 @@ Social login for Django REST Framework - with account linking, JWT tokens, and r
 pip install django-social-auth-rest
 ```
 
-For setup, provider credentials, the API reference, and signals, see the **[documentation site](https://PackageSphere.github.io/django-social-auth-rest/)**:
+For setup, provider credentials, the API reference, and signals, see the **[documentation site](https://QcialDotCom.github.io/django-social-auth-rest/)**:
 
-- [Getting Started](https://PackageSphere.github.io/django-social-auth-rest/guides/getting-started/)
-- [GitHub provider guide](https://PackageSphere.github.io/django-social-auth-rest/guides/providers/github/)
-- [Google provider guide](https://PackageSphere.github.io/django-social-auth-rest/guides/providers/google/)
-- [Linked accounts](https://PackageSphere.github.io/django-social-auth-rest/guides/linked-accounts/)
-- [Signals reference](https://PackageSphere.github.io/django-social-auth-rest/reference/signals/)
+- [Getting Started](https://QcialDotCom.github.io/django-social-auth-rest/guides/getting-started/)
+- [GitHub provider guide](https://QcialDotCom.github.io/django-social-auth-rest/guides/providers/github/)
+- [Google provider guide](https://QcialDotCom.github.io/django-social-auth-rest/guides/providers/google/)
+- [Linked accounts](https://QcialDotCom.github.io/django-social-auth-rest/guides/linked-accounts/)
+- [Signals reference](https://QcialDotCom.github.io/django-social-auth-rest/reference/signals/)
 
 ## Contributing
 

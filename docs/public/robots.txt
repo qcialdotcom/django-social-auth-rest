@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://PackageSphere.github.io/django-social-auth-rest/sitemap-index.xml
+Sitemap: https://QcialDotCom.github.io/django-social-auth-rest/sitemap-index.xml
