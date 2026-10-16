@@ -2,9 +2,9 @@
 name = "django-social-auth-rest"
 dynamic = ["version"]
 
-authors = [{ name = "Qcial Labs", email = "contact@qcial.com" }]
+authors = [{ name = "Qcial.Com", email = "contact@qcial.com" }]
 
-maintainers = [{ name = "Qcial Labs", email = "contact@qcial.com" }]
+maintainers = [{ name = "Qcial.Com", email = "contact@qcial.com" }]
 
 description = "A production-ready social authentication solution for Django REST Framework with provider abstraction, account linking, configurable security settings, and seamless JWT integration."
 
